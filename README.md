@@ -1,5 +1,7 @@
-# google-homepage
+#google-homepage
+Progetto ranax
+gran trito
 
-#kink caldo al lavoretto
+#Linkettone caldo
 
-# https://github.com/Dirigista/google-homepage/edit/master/README.md
+# https://github.com/Dirigista/google-homepage.git
